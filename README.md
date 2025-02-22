@@ -1,2 +1,2 @@
-# -Arboris
+# Arboris
 Hugo Theme
